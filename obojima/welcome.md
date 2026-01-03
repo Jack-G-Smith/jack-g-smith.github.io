@@ -22,4 +22,6 @@ As the DM, I’m going to be putting a lot of time into prepping this adventure 
 You will not have to prep a character until session zero, but please have a few backstory ideas in mind! I will provide all character sheets and other things for character creation, but it's much more fun and easy to build a character when you have a story you want to tell!
 
 ---
-# Learn more about Obojima <a href="/obojima/Background/obojima">here</a>!
+### <a href="/obojima/Background/obojima">Learn more about the island Obojima</a>
+
+### <a href="/obojima/Hooks/intro">Our Story</a>
