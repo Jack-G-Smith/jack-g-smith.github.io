@@ -1,7 +1,7 @@
 # Obojima
 Obojima is a Ghibli-inspired setting set on an island which exists simultaneously in the Physical and Spirit Realm, and where magic and semi-modern technology are mutually a part of rural/suburban life. There is no centralized government on the island, and every settlement more or less handles their own affairs.
 
-<img src="https://i.imgur.com/RaA44f3.png" style="width:350px" align="right" />
+<img src="images/obojima.webp" style="width:350px;margin-left:20px;border-radius:15px;" align="right" />
 
 ### Notes from the DM
 Just some basic stuff first before getting into the nitty-gritty...
