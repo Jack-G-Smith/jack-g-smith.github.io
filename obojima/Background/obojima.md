@@ -5,7 +5,7 @@ Obojima is a setting where the veil between the Physical and Spirit Realms is wh
 ---
 
 ## Geography and Governance
-<img src="../images/map.jpg" style="width:350px;margin-right:20px;border-radius:15px;" align="left" />
+<img src="../images/map.jpg" style="width:350px;margin-right:20px;padding:0;border-radius:15px;" align="left" />
 
 Obojima exists simultaneously in two planes of existence: the **Physical Realm** and the **Spirit Realm**. This overlap causes the natural world to be saturated with magic, resulting in vibrant landscapes and sentient weather patterns.
 
@@ -16,7 +16,7 @@ Obojima exists simultaneously in two planes of existence: the **Physical Realm**
 
 ---
 ## The Spirits of Obojima
-<img src="../images/spirit_lantern.jpg" style="width:350px;margin-left:20px;border-radius:15px;" align="right" />
+<img src="../images/spirit_lantern.jpg" style="width:350px;padding:0;margin-left:20px;border-radius:15px;" align="right" />
 
 Spirits are diverse entities that must choose a physical form to interact with the world. Their classification is usually determined by the nature of the form they inhabit. Some spirits may live primarily in the physical realm, while others come and go.
 
@@ -31,7 +31,7 @@ Spirits are diverse entities that must choose a physical form to interact with t
 ---
 
 ## Species of the Island
-<img src="../images/Species.webp" style="width:350px;margin-left:20px;border-radius:15px;" align="right" />
+<img src="../images/Species.webp" style="width:350px;padding:0;margin-left:20px;border-radius:15px;" align="right" />
 
 * **Humans:** The primary inhabitants who drive the island's technological integration and guild culture.
 * **Elves:** Born from human parents, Elves are individuals who possess a biological and spiritual connection to the Spirit Realm. They are seen as a natural evolution of the human experience on Obojima.
@@ -63,9 +63,10 @@ Modern life on Obojima utilizes reclaimed technology from the First Age, which r
 ---
 
 ## The Corruption
-<img src="../images/underwater.jpg" style="width:350px;margin:20px;border-radius:15px;" align="right" />
-
-Following a devastating earthquake and subsequent tsunami in recent history, a phenomenon known as The Corruption has appeared. This mysterious force taints the land and the spirits within it, creating a growing sense of unease and danger across the island.
+<figure>
+    <img src="../images/underwater.jpg" style="border-radius:15px;" />
+    <figcaption>Following a devastating earthquake and subsequent tsunami in recent history, a phenomenon known as The Corruption has appeared. This mysterious force taints the land and the spirits within it, creating a growing sense of unease and danger across the island.</figcaption>
+</figure>
 
 ---
 
