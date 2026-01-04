@@ -10,7 +10,7 @@ Just some basic stuff first before getting into the nitty-gritty...
 ### My expectations:
 As the DM, I’m going to be putting a lot of time into prepping this adventure for everyone. This will be a commitment. I just have a few expectations for players that will be joining the campaign:
 1. <b>Be present during the sessions.</b> I'm not explicitly banning phones, but I'd really appreciate it if we could all limit their use during sessions. If you’re having trouble with this, let me know if there’s anything that I can do to help.
-2. <b>Do not miss more than two sessions every three months</b>. Sessions will be every other Sunday starting at 10:00 am. If you’re going to miss a session, please let me know at least a week in advance.
+2. <b>Do not miss more than two sessions every three months</b>. Sessions will be TBD. If you’re going to miss a session, please let me know at least a week in advance.
 3. <b>Everyone is inclusive to everyone</b>. If I (or any player) feels uncomfortable, I will do my best to make immediate changes to ensure that the problem is resolved. We are all playing a character, yes, but we are also friends first and foremost. Please remember that.
 4. <b>Do not tell another player what their character should be doing</b>. This is not a try-hard campaign where your anime waifu gets to make all the decisions and kill those who don't follow their rules. Everyone is here to play their characters as they want to play them. You will need to work as a team, and everyone must be free to make their own choices.
 5. <b>Have Fun!</b> Obojima is a whimsical place with so much to explore. I’m excited to dive into it with you all!
