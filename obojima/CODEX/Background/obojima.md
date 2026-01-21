@@ -16,7 +16,7 @@ Obojima exists simultaneously in two planes of existence: the **Physical Realm**
 
 ---
 ## The Spirits of Obojima
-<img src="../images/spirit_lantern.jpg" style="width:350px;padding:0;margin-left:20px;border-radius:15px;" align="right" />
+<img src="../../images/spirit_lantern.jpg" style="width:350px;padding:0;margin-left:20px;border-radius:15px;" align="right" />
 
 Spirits are diverse entities that must choose a physical form to interact with the world. Their classification is usually determined by the nature of the form they inhabit. Some spirits may live primarily in the physical realm, while others come and go.
 
