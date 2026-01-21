@@ -5,7 +5,7 @@ Obojima is a setting where the veil between the Physical and Spirit Realms is wh
 ---
 
 ## Geography and Governance
-<img src="../images/map.jpg" style="width:350px;margin-right:20px;padding:0;border-radius:15px;" align="left" />
+<img src="../../images/map.jpg" style="width:350px;margin-right:20px;padding:0;border-radius:15px;" align="left" />
 
 Obojima exists simultaneously in two planes of existence: the **Physical Realm** and the **Spirit Realm**. This overlap causes the natural world to be saturated with magic, resulting in vibrant landscapes and sentient weather patterns.
 
