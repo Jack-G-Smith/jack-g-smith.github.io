@@ -31,7 +31,7 @@ Spirits are diverse entities that must choose a physical form to interact with t
 ---
 
 ## Species of the Island
-<img src="../images/Species.webp" style="width:350px;padding:0;margin-left:20px;border-radius:15px;" align="right" />
+<img src="../../images/Species.webp" style="width:350px;padding:0;margin-left:20px;border-radius:15px;" align="right" />
 
 * **Humans:** The primary inhabitants who drive the island's technological integration and guild culture.
 * **Elves:** Born from human parents, Elves are individuals who possess a biological and spiritual connection to the Spirit Realm. They are seen as a natural evolution of the human experience on Obojima.
@@ -64,7 +64,7 @@ Modern life on Obojima utilizes reclaimed technology from the First Age, which r
 
 ## The Corruption
 <figure>
-    <img src="../images/underwater.jpg" style="border-radius:15px;" />
+    <img src="../../images/underwater.jpg" style="border-radius:15px;" />
     <figcaption>Following a devastating earthquake and subsequent tsunami in recent history, a phenomenon known as The Corruption has appeared. This mysterious force taints the land and the spirits within it, creating a growing sense of unease and danger across the island.</figcaption>
 </figure>
 
