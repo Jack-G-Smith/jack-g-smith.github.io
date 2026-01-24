@@ -1,0 +1,121 @@
+---
+permalink: /login.html
+layout: none
+---
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8'>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Private Access | Login</title>
+    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+    
+    <style>
+        body { 
+            background: #f2f2f2; /* Architect's light grey background */
+            display: flex; 
+            justify-content: center; 
+            align-items: center; 
+            height: 100vh;
+            margin: 0;
+        }
+        
+        .login-box { 
+            background: #fff;
+            border: 1px solid #ddd;
+            border-top: 5px solid #23394d; /* Architect's dark blue header color */
+            padding: 30px; 
+            border-radius: 5px;
+            box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+            width: 100%;
+            max-width: 350px;
+        }
+
+        h3 { 
+            margin-top: 0; 
+            color: #23394d; 
+            font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
+        }
+
+        /* Styling Inputs to match Architect's 'inner shadow' feel */
+        select, input[type="password"] { 
+            width: 100%; 
+            padding: 12px; 
+            margin: 10px 0; 
+            border: 1px solid #ccc;
+            border-radius: 3px;
+            box-sizing: border-box; /* Ensures padding doesn't break width */
+            background: #fafafa;
+            font-size: 14px;
+        }
+
+        /* Architect's signature button style */
+        button { 
+            width: 100%; 
+            padding: 12px; 
+            cursor: pointer; 
+            background: #23394d;
+            background: linear-gradient(to bottom, #3b5973, #23394d);
+            color: white; 
+            border: 1px solid #1a2a38;
+            border-radius: 5px;
+            font-weight: bold;
+            text-shadow: 0 -1px 0 rgba(0,0,0,0.3);
+            margin-top: 10px;
+        }
+
+        button:hover {
+            background: #2a455c;
+        }
+
+        #error { 
+            font-size: 13px;
+            text-align: center;
+            margin-top: 15px;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="login-box">
+        <h3>Restricted Access</h3>
+        <select id="username">
+            <option value="">Select User</option>
+            <option value="ness">Ness</option>
+            <option value="justin">Justin</option>
+            <option value="jobi">Jobi</option>
+        </select>
+        <input type="password" id="password" placeholder="Key Phrase">
+        <button onclick="login()">Unlock Notes</button>
+        <p id="error" style="color:#900; display:none;">Access Denied</p>
+    </div>
+
+    <script>
+        function login() {
+            const user = document.getElementById('username').value;
+            const pass = document.getElementById('password').value;
+
+            // Simplified redirect logic to match your subfolder
+            const loginRedirect = () => {
+                localStorage.setItem('gh_pages_session', 'authenticated');
+                localStorage.setItem('gh_pages_user', user);
+                window.location.href = "login"; 
+            };
+
+            // if you are looking at this.... why? go away.
+            const creds = {
+                'ness': '7117',
+                'justin': '0220',
+                'jobi': '9009'
+            };
+
+            if (creds[user] && creds[user] === pass) {
+                loginRedirect();
+            } else {
+                document.getElementById('error').style.display = 'block';
+            }
+        }
+    </script>
+</body>
+</html>
