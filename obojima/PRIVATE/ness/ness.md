@@ -2,4 +2,4 @@
 
 ## Your Stuff:
 
-<a href="./CharSheet_Taro.md">Character Sheet</a>
+### * <a href="./CharSheet_Taro">Character Sheet</a>
