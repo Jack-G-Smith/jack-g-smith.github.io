@@ -100,7 +100,7 @@ layout: none
             const loginRedirect = () => {
                 localStorage.setItem('gh_pages_session', 'authenticated');
                 localStorage.setItem('gh_pages_user', user);
-                window.location.href = "login"; 
+                window.location.href = `/obojima/PRIVATE/${user}/${user}`; 
             };
 
             // if you are looking at this.... why? go away.
