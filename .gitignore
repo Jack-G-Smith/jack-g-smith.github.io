@@ -3,3 +3,6 @@ AI_SLOP
 _site/
 .*
 !.gitignore
+
+obojima/PRIVATE/**/*
+!obojima/PRIVATE/**/*.enc
