@@ -4,10 +4,10 @@ plugins:
 
 defaults:
   - scope:
-      path: "obojima/PRIVATE" # This should cover the folder
+      path: "obojima/PRIVATE"
     values:
       layout: "private"
   - scope:
-      path: "obojima/PRIVATE/ness" # Explicitly add sub-folders if they are being stubborn
+      path: "obojima/PRIVATE/ness"
     values:
       layout: "private"

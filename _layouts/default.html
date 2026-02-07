@@ -11,7 +11,7 @@
     {% include head-custom.html %}
   </head>
 
-  <body>
+  <body class="{{ page.body_class }}">
     <header>
       <div class="inner">
         <h2>{{ site.description | default: site.github.project_tagline }}</h2>

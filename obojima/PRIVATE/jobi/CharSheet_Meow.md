@@ -14,6 +14,11 @@
 
 ### **Armor Class (AC):** 10 + Dex
 
+| --- | --- |
+| **STR:** -1 (8) | **INT:** +0 (10) |
+| **DEX:** +1 (12) | **WIS:** +0 (11) |
+| **CON:** -1 (9) | **CHA:** -4 (3) |
+
 ---
 
 ### Talents & Traits
@@ -41,11 +46,11 @@
 
 ## Backstory
 
-> Meow’s family lived in the "Neutral Zone" between two growing settlements: **The Great Pine Village** and a new **Industrial Logging Camp**.
+Meow’s family lived in the "Neutral Zone" between two growing settlements: **The Great Pine Village** and a new **Industrial Logging Camp**.
 
-> A dispute broke out over who owned the "Result" people living in the woods. One morning, "Men with Metal Voices" (soldiers or city-enforcers) arrived to "relocate" all Tabaxi located between the settlements. In the chaos of the village being dismantled, Meow’s brother, who was older and faster, drew the guards away so Meow could hide in a hollow log.
+A dispute broke out over who owned the "Result" people living in the woods. One morning, "Men with Metal Voices" (soldiers or city-enforcers) arrived to "relocate" all Tabaxi located between the settlements. In the chaos of the village being dismantled, Meow’s brother, who was older and faster, drew the guards away so Meow could hide in a hollow log.
 
-> The last thing Meow saw was his brother being hoisted onto a steam-wagon, the necklace falling into the mud. The wagon headed toward the **Smog-Choked City**, and the border was officially closed that evening. To Meow, it wasn't a war; it was just a group of mean adults taking his hero away for reasons that "didn't make sense."
+The last thing Meow saw was his brother being hoisted onto a steam-wagon, the necklace falling into the mud. The wagon headed toward the **Smog-Choked City**, and the border was officially closed that evening. To Meow, it wasn't a war; it was just a group of mean adults taking his hero away for reasons that "didn't make sense."
 
 ---
 
